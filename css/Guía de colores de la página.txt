@@ -1,0 +1,10 @@
+Colores primarios en la página:
+para fondo de la página - Verde Aguamarina : que trasmita serenidad
+colores para los títulos - Azul marino : diferenciar con subrayado
+colores para el footer - Blanco mate o blanco hueso : para poner los datos de contacto y poder diferenciar los logos de los íconos de las redes sociales ( Ig - Facebook y Wsp nro de contacto ) 
+fondo de color negro para escribir en cuadros datos de contacto y al lado una ubicación en Google maps de la academia
+*Nota interesante : 
+agregar función button pull-out con 3 ítems :
+-Buscar en página
+-Acceder
+-Correo
